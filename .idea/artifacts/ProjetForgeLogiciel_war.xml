@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProjetForgeLogiciel:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ProjetForgeLogiciel</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ProjetForgeLogiciel-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ProjetForgeLogiciel:war exploded" />
+    </root>
+  </artifact>
+</component>
